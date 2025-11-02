@@ -30,8 +30,8 @@ This week's objective was to set up the collaborative toolset for the major grou
     * **Diagnosis & Solution:** I read the error message, followed the link it provided (`trello.com/platforms/slack`), and authorized my new Slack workspace from my **Trello account's admin settings**. After Trello approved the connection, I returned to Slack and the `/trello link` command succeeded.
 
 **Resources/Links:**
-* [cite_start]CP3402 Weekly Practical Guide (Week 6) [cite: 381-404]
-* [cite_start]CP3402 Project Guide (for GitHub naming conventions and new project requirements) [cite: 90-93, 167-330]
+* CP3402 Weekly Practical Guide (Week 6) 
+* CP3402 Project Guide (for GitHub naming conventions and new project requirements) 
 * Slack App Directory (for installing GitHub and Trello)
 * Trello Workspace Slack Integration Settings page
 
@@ -40,11 +40,11 @@ This week's objective was to set up the collaborative toolset for the major grou
 
 **Content Insights:**
 
-I now have a deep understanding of the **synergy** between these tools. Trello is not just a to-do list; it establishes the project's "rules" via the "Group Agreement" card. GitHub is where the "work" is executed. [cite_start]The purpose of the Slack integration [cite: 393-394] is to pipe all **notifications** from both "planning" (Trello) and "execution" (GitHub) into a single, real-time feed. This allows a team (or in this case, just me) to see all project-related activity without context-switching between three different apps.
+I now have a deep understanding of the **synergy** between these tools. Trello is not just a to-do list; it establishes the project's "rules" via the "Group Agreement" card. GitHub is where the "work" is executed. The purpose of the Slack integration is to pipe all **notifications** from both "planning" (Trello) and "execution" (GitHub) into a single, real-time feed. This allows a team (or in this case, just me) to see all project-related activity without context-switching between three different apps.
 
 **Career/Employability/Learning Insights:**
 
-The most valuable lesson this week came not from following the guide, but from when the **guide failed**. [cite_start]The instructions (`/github subscribe`) [cite: 401-402] were technically **incorrect** for my (tutor-approved) situation.
+The most valuable lesson this week came not from following the guide, but from when the **guide failed**. The instructions (`/github subscribe`)  were technically **incorrect** for my (tutor-approved) situation.
 
 Instead of getting stuck, I:
 1.  **Communicated Proactively:** When I had the initial channel and teammate problem, I didn't wait. I contacted my tutor and got a new path forward.
